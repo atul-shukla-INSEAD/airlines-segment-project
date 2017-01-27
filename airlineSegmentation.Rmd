@@ -75,6 +75,7 @@ airlinesClusters <- KmeansCluster$cluster
 table(airlinesClusters) > 1000
 
 KmeansCluster$centers
+<<<<<<< HEAD
 ```
 
 
@@ -110,3 +111,5 @@ Cluster 4: new customers procuring miles through non-flight transactions
 
 Cluster 5: infrequent and new customers
 
+=======
+>>>>>>> 3dc406ce4f7d99a3439b4ff317755bcb0601d2fb
